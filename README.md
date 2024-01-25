@@ -10,3 +10,9 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 ### Ranking
 
+
+
+
+• Developed a deep learning model to determine passenger survival on the Titanic using machine learning techniques.
+• Achieved a accuracy of 78.49 using XGBoost model by rigorous model tuning and hyperparameter optimization
+• Conducted comprehensive data cleaning and preprocessing to handle missing values and ensure the quality input features
