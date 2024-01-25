@@ -9,10 +9,11 @@ In this contest, we are asked  to complete the analysis of what sorts of people 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 ### Ranking
+https://github.com/ask2901/Titanic/assets/109283594/4e55d6ed-5160-4cb6-8e0c-c15920d7a5f4
 
 
-
-
-• Developed a deep learning model to determine passenger survival on the Titanic using machine learning techniques.
-• Achieved a accuracy of 78.49 using XGBoost model by rigorous model tuning and hyperparameter optimization
+## What I did ? 
+• Developed a deep learning model to determine passenger survival on the Titanic using machine learning techniques.\
+• Analyzed various algorithms like logistic regression , Neural Networks , Decision Tress using Random Forest Algorithm.\
+• Achieved maximum accuracy of 78.49% using XGBoost model by rigorous model tuning and hyperparameter optimization and use of adam optimizer.\
 • Conducted comprehensive data cleaning and preprocessing to handle missing values and ensure the quality input features
