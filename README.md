@@ -9,7 +9,7 @@ In this contest, we are asked  to complete the analysis of what sorts of people 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 ### Ranking
-https://github.com/ask2901/Titanic/assets/109283594/4e55d6ed-5160-4cb6-8e0c-c15920d7a5f4
+<img width="960" alt="Titanic_Submission" src="https://github.com/ask2901/Titanic/assets/109283594/4e55d6ed-5160-4cb6-8e0c-c15920d7a5f4">
 
 
 ## What I did ? 
