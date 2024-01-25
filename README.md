@@ -15,5 +15,5 @@ https://github.com/ask2901/Titanic/assets/109283594/4e55d6ed-5160-4cb6-8e0c-c159
 ## What I did ? 
 • Developed a deep learning model to determine passenger survival on the Titanic using machine learning techniques.\
 • Analyzed various algorithms like logistic regression , Neural Networks , Decision Tress using Random Forest Algorithm.\
-• Achieved maximum accuracy of 78.49% using XGBoost model by rigorous model tuning and hyperparameter optimization and use of adam optimizer.\
+• Achieved maximum accuracy of 78.49% using XGBoost model by rigorous model tuning and hyperparameter optimization.\
 • Conducted comprehensive data cleaning and preprocessing to handle missing values and ensure the quality input features
